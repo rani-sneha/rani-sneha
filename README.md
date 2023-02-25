@@ -1,16 +1,31 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Sneha Rani</h1>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rani-sneha&label=Profile%20views&color=0e75b6&style=flat" alt="rani-sneha" /> </p>
 
-**rani-sneha/rani-sneha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rani-sneha" alt="rani-sneha" /></a> </p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **javascript, nodejs, c++**
 
-- 🔭 I’m currently working on ... Data Structure and Algo
-- 🌱 I’m currently learning ...HTML, CSS and JavaScript
-- 👯 I’m looking to collaborate on ... projects relatd to frontend
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about  Java
-- 📫 How to reach me:  sneharani0212@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love to play Chess
+- 💬 Ask me about **DSA, python, css and javascript**
 
+- 📫 How to reach me **sneharani0212@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/_ranisneha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ranisneha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rani-sneha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rani-sneha" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/_ranisneha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="_ranisneha" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rani-sneha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rani-sneha" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@sneharani0212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sneharani0212" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sneharani0212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sneharani0212" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rani-sneha&show_icons=true&locale=en&layout=compact" alt="rani-sneha" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rani-sneha&show_icons=true&locale=en" alt="rani-sneha" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rani-sneha&" alt="rani-sneha" /></p>
